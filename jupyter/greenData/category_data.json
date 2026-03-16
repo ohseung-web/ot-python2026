@@ -1,0 +1,46 @@
+{
+  "kind": "youtube#videoCategoryListResponse",
+  "etag": "etag_example_12345",
+  "items": [
+    {
+      "id": "1",
+      "snippet": {
+        "channelId": "UC_PROJECT_01",
+        "title": "Film & Animation",
+        "assignable": true
+      }
+    },
+    {
+      "id": "10",
+      "snippet": {
+        "channelId": "UC_PROJECT_02",
+        "title": "Music",
+        "assignable": true
+      }
+    },
+    {
+      "id": "17",
+      "snippet": {
+        "channelId": "UC_PROJECT_03",
+        "title": "Sports",
+        "assignable": true
+      }
+    },
+    {
+      "id": "20",
+      "snippet": {
+        "channelId": "UC_PROJECT_04",
+        "title": "Gaming",
+        "assignable": true
+      }
+    },
+    {
+      "id": "24",
+      "snippet": {
+        "channelId": "UC_PROJECT_05",
+        "title": "Entertainment",
+        "assignable": true
+      }
+    }
+  ]
+}

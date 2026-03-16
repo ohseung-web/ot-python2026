@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<members>
+    <member>
+        <name>김철수</name>
+        <age>25</age>
+        <city>서울</city>
+    </member>
+    <member>
+        <name>이영희</name>
+        <age>30</age>
+        <city>부산</city>
+    </member>
+    <member>
+        <name>박민수</name>
+        <age>22</age>
+        <city>대전</city>
+    </member>
+</members>
